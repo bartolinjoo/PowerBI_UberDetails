@@ -1,4 +1,4 @@
-# 🚗 Uber Trip Analysis – Power BI Projectt
+# 🚗 Uber Trip Analysis – Power BI Project
 
 Interactive Power BI dashboard for Uber trip analysis, featuring dynamic KPIs, time heatmaps, and location insights to support data-driven decisions on bookings, revenue, and trip efficiency.
 
